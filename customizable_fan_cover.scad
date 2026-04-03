@@ -61,10 +61,10 @@ number_of_support_lines = 2;  //[1:1:36]
 cover_size_in_millimeter = 39.4;
 
 // E.g. 2.9 for M2.5, 3.3 for M3, 4.4 for M4
-screw_hole_diameter_in_millimeter = 2.86;
+screw_hole_diameter_in_millimeter = 2.80;
 
 // 25mm fan: 20 | 30mm fan: 24 | 40mm fan: 32 | 50mm fan: 40 | 60mm fan: 50 | 70mm fan: 61.5 | 80mm fan: 71.5 | 92mm fan: 82.5 | 120mm fan: 105 | 140mm fan: 126 
-screw_hole_distance_in_millimeter = 33;
+screw_hole_distance_in_millimeter = 33.2;
 
 // Height of the outer frame of the cover
 cover_height_in_millimeter = 1.2;
